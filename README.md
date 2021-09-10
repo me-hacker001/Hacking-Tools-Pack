@@ -2,8 +2,8 @@
 <h3 align="center">Ｔｏｏｌｓ ｏｆ Ｈａｃｋｅｒｓ Ｃｈｏｉｓｅ</h4>
 <p align="center"><a target="_blank" href="https://github.com/in-future-world/All-Hacking-Tools">
   <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=in-future-world.All-Hacking-Tools" />
-  <img src="https://img.shields.io/github/repo-size/in-future-world/All-Hacking-Tools" />   </p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=in-future-world.Hacking-Tools-Pack" />
+  <img src="https://img.shields.io/github/repo-size/in-future-world/Hacking-Tools-Pack" />   </p>
 </p>
 
  ![All-hacking-tools](https://user-images.githubusercontent.com/88558310/131387204-49cccb65-c337-410c-a146-1fecc433c475.png)
