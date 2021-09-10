@@ -358,7 +358,7 @@ WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1) ~~~ ᴀᴄ�
 
 
 ## JDSingh Hacker tool Kit
-This tool kit include many of the tools that can be use to hacking. It has best tools with working condition and this tools start with only one click on .cmd files. it has manytypes of rat, crypter, binder, botnets and many mores. His All tool are included in `All-Hacking-Tools` or if you want only jd singh tool kit as raw, see below, it's free.</br></br>
+This tool kit include many of the tools that can be use to hacking. It has best tools with working condition and this tools start with only one click on .cmd files. it has manytypes of rat, crypter, binder, botnets and many mores. His All tool are included in `Hacking-Tools-Pack` or if you want only jd singh tool kit as raw, see below, it's free.</br></br>
 **[Click here for more information and his real price](https://www.itjd.in/jdsingh-hacker-tool-kit-2/)** </br>
 **Real price:**</br>
 - Full kit Price: `₹2000`</br>
