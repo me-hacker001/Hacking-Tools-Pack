@@ -1,6 +1,6 @@
 <h1 align="center" > ★·.·´¯`·.·★ 卂Ⓛᒪ 𝐇Ã𝓒𝔨ι𝐍Ğ 𝕋𝐨𝐎𝐥ｓ ★·.·´¯`·.·★ </h1>
 <h3 align="center">Ｔｏｏｌｓ ｏｆ Ｈａｃｋｅｒｓ Ｃｈｏｉｓｅ</h4>
-<p align="center"><a target="_blank" href="https://github.com/in-future-world/All-Hacking-Tools">
+<p align="center"><a target="_blank" href="https://github.com/in-future-world/Hacking-Tools-Pack.git">
   <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=in-future-world.Hacking-Tools-Pack" />
   <img src="https://img.shields.io/github/repo-size/in-future-world/Hacking-Tools-Pack" />   </p>
@@ -55,8 +55,7 @@ WhatsApp - [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1) ~~~ ᴀᴄ�
  ## Features Under Tools
  See below for list of hacking application. You can also download any single file without downloading whole Repository.
  ### 1 - 
- **Trojan Rat file is to big(2.06GB), So we can't include in our repository. You can download it from 'Trojan_Rat_Downloader.bat' file and also from [here](https://mega.nz/file/S2BXUYiT#cwE8kSw1wBN7FiZgu0BHJT5oV4vK_GASr73fbvvJtEI)**
- <h2 align="center">Trojan Builder(310)</h4> 
+ </h4> 
 
  #1 | #2 | #3 | #4 |
 | :---: | :---: | :---: | :---: |
